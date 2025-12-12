@@ -1,5 +1,7 @@
 /// @description this is a trigger. Usually not visible
 
+image_speed = 0;
+
 // set alpha to 0.5 for now
 image_alpha = 0.5;
 

@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Waiting for broadcast messages from the sprite's timeline
 if (event_data[? "event_type"] == "sprite event")
 {
     show_debug_message(event_data[? "message"]);

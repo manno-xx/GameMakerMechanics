@@ -3,11 +3,14 @@
 
 self.image_speed = 0;
 
-openDoor = function(){
-    show_debug_message(self);
-    self.image_speed = 1;
+event_subscribe("open_door", function(context)
+{
+    self.openUp();
+});
+
+// play animation in this sprite
+openUp = function()
+{
+    image_speed = 1;
 }
-
-event_add_listener("open_door", openDoor);
-
 

@@ -2,6 +2,6 @@
 
 if(place_meeting(x, y, obj_Player_ebp) && !hasTriggered)
 {
-    event_trigger("open_door", 0);
     hasTriggered = true;
+    event_publish("open_door", {});
 }
