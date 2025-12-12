@@ -1,5 +1,7 @@
 # Small Game Maker examples
 
+Project contains the following rooms
+
 ## rm_aStarPath 
 Quick example on motion planning (path finding) using the grid option (A Star). 
 
