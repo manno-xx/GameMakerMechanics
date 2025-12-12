@@ -1,9 +1,9 @@
 /// @description Visualise the grid that is used for path finding
 
-draw_set_alpha(0.2);
+//draw_set_alpha(0.1);
 
-mp_grid_draw(grid);
+//mp_grid_draw(grid);
 
-if(path_exists(path_index)){
-    draw_path(path_index, 0, 0, true);
-}
+//if(path_exists(path_index)){
+//    draw_path(path_index, 0, 0, true);
+//}
