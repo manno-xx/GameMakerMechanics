@@ -7,4 +7,3 @@ move_and_collide(hor * mySpeed, ver * mySpeed, obj_wall, 4);
 
 // look where you're going
 rotation = point_direction(xprevious, yprevious, x, y);
-//image_angle = angle;
