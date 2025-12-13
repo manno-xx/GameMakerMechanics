@@ -67,12 +67,12 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_HealthBars","path":"rooms/rm_HealthBars/rm_HealthBars.yy",},},
     {"roomId":{"name":"rm_Chase","path":"rooms/rm_Chase/rm_Chase.yy",},},
     {"roomId":{"name":"rm_ShootingRange","path":"rooms/rm_ShootingRange/rm_ShootingRange.yy",},},
     {"roomId":{"name":"rm_aStarPath","path":"rooms/rm_aStarPath/rm_aStarPath.yy",},},
     {"roomId":{"name":"rm_EventBasedProgramming","path":"rooms/rm_EventBasedProgramming/rm_EventBasedProgramming.yy",},},
     {"roomId":{"name":"rm_PotentialPath","path":"rooms/rm_PotentialPath/rm_PotentialPath.yy",},},
-    {"roomId":{"name":"rm_HealthBars","path":"rooms/rm_HealthBars/rm_HealthBars.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
