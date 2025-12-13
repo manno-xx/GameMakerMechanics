@@ -31,11 +31,6 @@
               ],"flexDirection":0,"height":{"unit":3,"value":8.0,},"justifyContent":1,"name":"FlexPanel","nodeColour":4282970796,"paddingLeft":{"unit":1,"value":2.0,},"paddingRight":{"unit":1,"value":2.0,},"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":3,"value":16.0,},},
           ],"flexDirection":2,"height":{"unit":1,"value":32.0,},"justifyContent":1,"name":"clip","nodeColour":4294081352,"positionRight":{"unit":1,"value":0.0,},"positionTop":{"unit":1,"value":0.0,},"positionType":2,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":1,"value":100.0,},},
       ],"flexDirection":0,"gridX":32,"gridY":32,"justifyContent":1,"name":"ammo_hud","nodeColour":4292757746,"resourceType":"GMRUILayer","resourceVersion":"2.0","visible":false,},
-    {"$GMRUILayer":"v1","%Name":"manual_root","alignItems":2,"children":[
-        {"$GMRFlexPanel":"","%Name":"manual","alignItems":3,"alignSelf":3,"children":[
-            {"$GMRTextItem":"v3","%Name":"text_A09F713","alignment":512,"charSpacing":0.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps",},"fontId":{"name":"fnt_font1","path":"fonts/fnt_font1/fnt_font1.yy",},"frameH":0.0,"frameW":0.0,"frozen":false,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"lineSpacing":0.0,"name":"text_A09F713","paragraphSpacing":0.0,"resourceType":"GMRTextItem","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"text":"Fire away by clicking anywhere in the screen.\nPress 'R' when you run out of ammo.\nFire at the wall for sparkling fx.\nNo you cannot move. That's another demo.","wrap":false,"x":0.0,"y":0.0,},
-          ],"flexDirection":0,"height":{"unit":3,"value":37.0,},"justifyContent":1,"name":"manual","nodeColour":4286116424,"positionBottom":{"unit":1,"value":0.0,},"positionLeft":{"unit":1,"value":0.0,},"positionType":2,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":3,"value":189.0,},},
-      ],"flexDirection":0,"gridX":32,"gridY":32,"justifyContent":1,"name":"manual_root","nodeColour":4294068394,"resourceType":"GMRUILayer","resourceVersion":"2.0","visible":false,},
   ],
   "locked":false,
   "name":"RoomUI",
