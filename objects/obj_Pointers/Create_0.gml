@@ -15,7 +15,7 @@
 
 drawingMargin = 10;
 
-// the raytracing methid requires a reference to the player
+// the raytracing method requires a reference to the player
 player = instance_find(obj_player1, 0);
 
 /**
