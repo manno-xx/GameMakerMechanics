@@ -23,7 +23,7 @@ for (var i = 0; i < instance_number(obj_target); ++i)
         
         if(overlapType == 0)
         {
-           //var pos = getClamedPos(inst);
+           //var pos = getClampedPos(inst);
            var pos = getRaytracedPos(player, inst);
            
            draw_circle(pos.x, pos.y, 8, true);

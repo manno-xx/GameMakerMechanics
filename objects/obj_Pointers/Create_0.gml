@@ -4,7 +4,7 @@
  * This object looks for instances of 'obj_target' or its children
  * The positions of all the instances found that are _not_ inside the viewport, 
  *   will be marked along the edge of the viewport by a circle
- * The method used is a perpendicular line from the target to the edge of the camera's view
+ * 
  * 
  * Possible improvements:
  * - let the target objects refer to a sprite that will be drawn. As such indicating the type
@@ -20,9 +20,9 @@ player = instance_find(obj_player1, 0);
 
 /**
  * Calculate the position using clamping
- * 
+ * This method uses perpendicular lines from the target to the edges of the camera's view
  */ 
-getClamedPos = function(targetInstance)
+getClampedPos = function(targetInstance)
 {
     var ix = targetInstance.x; 
     var iy = targetInstance.y; 
@@ -38,14 +38,15 @@ getClamedPos = function(targetInstance)
 
 /**
  * Calculate the position using 'raytracing'
- * 
+ * Basically calculates the intersection between the line from player to target en the edge of the view
  */ 
 getRaytracedPos = function(player, targetInstance)
 {
     
     var dx = targetInstance.x - player.x;
     var dy = targetInstance.y - player.y;
-
+    
+    // should maybe be max int or something.
     tX = 10000;
     tY = 10000;
 
