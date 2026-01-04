@@ -86,6 +86,7 @@
     {"id":{"name":"spr_npc2","path":"sprites/spr_npc2/spr_npc2.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_rect","path":"sprites/spr_rect/spr_rect.yy",},},
+    {"id":{"name":"spr_State_Example","path":"sprites/spr_State_Example/spr_State_Example.yy",},},
     {"id":{"name":"spr_trigger","path":"sprites/spr_trigger/spr_trigger.yy",},},
     {"id":{"name":"spr_Wall","path":"sprites/spr_Wall/spr_Wall.yy",},},
     {"id":{"name":"spr_womanGreen_gun","path":"sprites/spr_womanGreen_gun/spr_womanGreen_gun.yy",},},

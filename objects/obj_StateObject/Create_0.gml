@@ -2,7 +2,7 @@
 
 currentHp = 10.1;
 maxHp = 100;
-isRestedHp = 60;
+restedHp = 60;
 goRestHp = 20;
 isFatigedHp = 5;
 
@@ -35,7 +35,7 @@ fsm.add("idle",
     }
 });
 // transitions from Idle state to other states
-fsm.add_transition("idle->patrol", "idle", "patrol", function(){return currentHp >= isRestedHp});
+fsm.add_transition("idle->patrol", "idle", "patrol", function(){return currentHp >= restedHp});
 
 ///
 ///  the patrol state. When HP is down too much, it transitions to idle (to rest)
