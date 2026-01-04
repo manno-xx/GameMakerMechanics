@@ -4,4 +4,4 @@ var angle = point_direction(prevX, prevY, x, y);
 image_angle = angle;
 
 prevX = x;
-prevY = y
+prevY = y;
