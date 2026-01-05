@@ -29,8 +29,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"WeightedRandom",
-    "path":"folders/Objects/WeightedRandom.yy",
+    "name":"sprites",
+    "path":"folders/_weightedRandom/sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

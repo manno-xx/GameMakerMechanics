@@ -26,8 +26,8 @@
   ],
   "name":"rm_EventBasedProgramming",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"_EventBasedProgramming",
+    "path":"folders/_EventBasedProgramming.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

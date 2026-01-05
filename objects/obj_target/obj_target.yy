@@ -10,8 +10,8 @@
   "name":"obj_target",
   "overriddenProperties":[],
   "parent":{
-    "name":"MappingEnemies",
-    "path":"folders/Objects/MappingEnemies.yy",
+    "name":"objects",
+    "path":"folders/_mappingNPCs/objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

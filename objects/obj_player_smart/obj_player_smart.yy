@@ -11,8 +11,8 @@
   "name":"obj_player_smart",
   "overriddenProperties":[],
   "parent":{
-    "name":"PathSmart",
-    "path":"folders/Objects/PathSmart.yy",
+    "name":"objects",
+    "path":"folders/_PathFinding_AStar/objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

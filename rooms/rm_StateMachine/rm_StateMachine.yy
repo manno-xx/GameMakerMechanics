@@ -19,8 +19,8 @@
   ],
   "name":"rm_StateMachine",
   "parent":{
-    "name":"StateMachine",
-    "path":"folders/StateMachine.yy",
+    "name":"_StateMachine",
+    "path":"folders/_StateMachine.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

@@ -14,7 +14,7 @@
   "isDnd":false,
   "layers":[
     {"$GMRAssetLayer":"","%Name":"manual","assets":[
-        {"$GMRTextItem":"v3","%Name":"text_78FF21BB","alignment":0,"charSpacing":0.0,"colour":4294967295,"fontId":{"name":"fnt_font1","path":"fonts/fnt_font1/fnt_font1.yy",},"frameH":0.0,"frameW":0.0,"frozen":false,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"lineSpacing":0.0,"name":"text_78FF21BB","paragraphSpacing":0.0,"resourceType":"GMRTextItem","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"text":"Click to fire\nPress 'R' to reload","wrap":false,"x":32.0,"y":640.0,},
+        {"$GMRTextItem":"v3","%Name":"text_78FF21BB","alignment":0,"charSpacing":0.0,"colour":4294967295,"fontId":{"name":"fnt_font1","path":"fonts/fnt_font1/fnt_font1.yy",},"frameH":0.0,"frameW":0.0,"frozen":false,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"lineSpacing":0.0,"name":"text_78FF21BB","paragraphSpacing":0.0,"resourceType":"GMRTextItem","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"text":"Click to fire\nPress 'R' to reload\nDemonstrates instantiation of objects and UI updates","wrap":false,"x":32.0,"y":608.0,},
       ],"depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"manual","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"HUD","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_32E5ABC2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_32E5ABC2","objectId":{"name":"obj_ammo_hud_flexpanel","path":"objects/obj_ammo_hud_flexpanel/obj_ammo_hud_flexpanel.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1248.0,"y":0.0,},
@@ -28,8 +28,8 @@
   ],
   "name":"rm_ShootingRange",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"_Shooting range",
+    "path":"folders/_Shooting range.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

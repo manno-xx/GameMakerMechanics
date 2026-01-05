@@ -10,8 +10,8 @@
   "name":"obj_player_potentialPath",
   "overriddenProperties":[],
   "parent":{
-    "name":"PathPotential",
-    "path":"folders/Objects/PathPotential.yy",
+    "name":"objects",
+    "path":"folders/_Potential_Path/objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

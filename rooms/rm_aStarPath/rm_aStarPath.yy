@@ -36,8 +36,8 @@
   ],
   "name":"rm_aStarPath",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"_PathFinding_AStar",
+    "path":"folders/_PathFinding_AStar.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

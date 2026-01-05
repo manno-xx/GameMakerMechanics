@@ -6,8 +6,8 @@
   "name":"obj_loss",
   "overriddenProperties":[],
   "parent":{
-    "name":"WeightedRandom",
-    "path":"folders/Objects/WeightedRandom.yy",
+    "name":"objects",
+    "path":"folders/_weightedRandom/objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

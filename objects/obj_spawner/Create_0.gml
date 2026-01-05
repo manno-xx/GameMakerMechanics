@@ -1,5 +1,8 @@
 /// @description spawn a bunch of objects based on their drop rate 
 
+// new random seed every run
+randomise();
+
 // the array of possible items
 var drops = [];
 

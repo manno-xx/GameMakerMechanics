@@ -20,8 +20,8 @@
   ],
   "name":"rm_Dragging",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"_Drag_things",
+    "path":"folders/_Drag_things.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

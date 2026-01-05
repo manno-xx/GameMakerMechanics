@@ -6,8 +6,8 @@
   "name":"obj_wall",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Shared assets",
+    "path":"folders/Shared assets.yy",
   },
   "parentObjectId":null,
   "persistent":false,

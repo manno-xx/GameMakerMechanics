@@ -12,8 +12,8 @@
   "name":"obj_player",
   "overriddenProperties":[],
   "parent":{
-    "name":"ShootingRange",
-    "path":"folders/Objects/ShootingRange.yy",
+    "name":"objects",
+    "path":"folders/_Shooting range/objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

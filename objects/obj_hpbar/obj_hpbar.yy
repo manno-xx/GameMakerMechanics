@@ -9,8 +9,8 @@
   "name":"obj_hpbar",
   "overriddenProperties":[],
   "parent":{
-    "name":"StateMachine",
-    "path":"folders/StateMachine.yy",
+    "name":"_StateMachine",
+    "path":"folders/_StateMachine.yy",
   },
   "parentObjectId":null,
   "persistent":false,

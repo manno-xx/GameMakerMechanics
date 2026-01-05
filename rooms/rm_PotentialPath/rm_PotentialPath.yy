@@ -36,8 +36,8 @@
   ],
   "name":"rm_PotentialPath",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"_Potential_Path",
+    "path":"folders/_Potential_Path.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

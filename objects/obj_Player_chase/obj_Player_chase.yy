@@ -10,8 +10,8 @@
   "name":"obj_Player_chase",
   "overriddenProperties":[],
   "parent":{
-    "name":"Chase",
-    "path":"folders/Objects/Chase.yy",
+    "name":"objects",
+    "path":"folders/_Chasing NPC/objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

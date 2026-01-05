@@ -8,8 +8,8 @@
   "name":"obj_Player_ebp",
   "overriddenProperties":[],
   "parent":{
-    "name":"EventBasedProgramming",
-    "path":"folders/Objects/EventBasedProgramming.yy",
+    "name":"objects",
+    "path":"folders/_EventBasedProgramming/objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

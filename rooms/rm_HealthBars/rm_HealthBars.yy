@@ -13,8 +13,8 @@
   ],
   "name":"rm_HealthBars",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"_Health_Bar_to_do",
+    "path":"folders/_Health_Bar_to_do.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

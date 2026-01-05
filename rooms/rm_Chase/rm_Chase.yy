@@ -36,8 +36,8 @@
   ],
   "name":"rm_Chase",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"_Chasing NPC",
+    "path":"folders/_Chasing NPC.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

@@ -11,8 +11,8 @@
   "name":"obj_draggable",
   "overriddenProperties":[],
   "parent":{
-    "name":"Dragging",
-    "path":"folders/Objects/Dragging.yy",
+    "name":"objects",
+    "path":"folders/_Drag_things/objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
